@@ -116,5 +116,5 @@ $RECYCLE.BIN/
 *.lnk
 
 # Etс. files
-*.classpath
-*.project
+.classpath
+.project
