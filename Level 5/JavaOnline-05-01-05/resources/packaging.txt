@@ -1,0 +1,17 @@
+ID	NAME		COLOR	TYPE	PRICE	QUANTITY
+================================================
+1	Packaging1	Craft	Paper	5.00	30
+2	Packaging1	Red		Paper	10.00	30	
+3	Packaging1	Pink	Paper	3.00	30
+4	Packaging1	Clear	Film	4.00	30
+5	Packaging1	Pea		Film	4.00	30
+6	Packaging1	Stripe	Film	4.00	30
+7	Packaging1	Gold	Grid	8.00	30
+8	Packaging1	Silver	Grid	8.00	30
+9	Packaging1	Coffee	Grid	4.00	30
+10	Packaging1	Black	Box		15.00	30
+11	Packaging1	White	Box		15.00	30
+12 	Packaging1	White	Tape	1.00	30
+13 	Packaging1	Gold	Tape	1.00	30
+14 	Packaging1	Craft	Tape	0.50	30
+15 	Packaging1	Silver	Tape	1.50	30
